@@ -14,3 +14,5 @@ Description: Brown spot, caused by the fungus Bipolaris oryzae, features brown l
 
 **Tungro:**
 Description: Rice tungro disease is caused by the rice tungro bacilliform virus (RTBV) and rice tungro spherical virus (RTSV). Symptoms include stunted growth, yellow to orange discoloration of leaves, and reduced tillering.
+
+Data Set: "https://www.kaggle.com/datasets/nirmalsankalana/rice-leaf-disease-image"
